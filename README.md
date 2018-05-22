@@ -1,4 +1,4 @@
 # snakeGame
 
 
-demo : https://s3.amazonaws.com/firstgamecellink/index.html 
+demo : https://s3.amazonaws.com/firstsnakegame/index.html
